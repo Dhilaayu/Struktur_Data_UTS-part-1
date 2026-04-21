@@ -1,3 +1,5 @@
+<img width="200" height="250" alt="WhatsApp Image 2026-04-21 at 19 49 49" src="https://github.com/user-attachments/assets/01214dff-45a5-45a9-82bd-ae8744192daa" />
+
 # Tugas UTS Struktur Data - Part 1
 - Nama  : Dhila Ayu Lestari
 - NIM   : 25161562029
